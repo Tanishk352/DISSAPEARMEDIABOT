@@ -20,5 +20,5 @@ This project lets multiple users securely log in via a middleman bot and use `.w
 1. Clone this repo:
    ```bash
    git clone https://github.com/tanishk3552/disappearmediabot.git
-   cd disappear-media-bot
+   cd disappearmediabot
 
